@@ -9,6 +9,10 @@ yarn-error.log*
 .idea
 *.idea
 
+# tests
+coverage
+reports
+
 # Runtime data
 pids
 *.pid
