@@ -1,30 +1,8 @@
-# ues-test
+# Vue.js 学习之测试篇
 
-> A Vue.js project
+> Vue.js 学习之测试篇
 
-## Build Setup
+## 关于
+该工程是学习 Vue.js 工程测试的一次实战，涵盖了单元测试和自动化测试的配置和应用。关于本项目的教程总结，可参考：[URL](#)
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 大纲和内容
