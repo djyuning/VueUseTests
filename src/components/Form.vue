@@ -45,7 +45,6 @@ export default {
 
   form {
     display: flex;
-    justify-content: center;
     padding: 10px;
   }
 
