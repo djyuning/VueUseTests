@@ -1,4 +1,7 @@
 import Vue from 'vue'
+import Promise from 'es6-promise'
+
+Promise.polyfill()
 
 Vue.config.productionTip = false
 

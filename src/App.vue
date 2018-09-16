@@ -5,6 +5,9 @@
     <div class="section">
       <UseUI></UseUI>
     </div>
+    <div class="section">
+      <Form></Form>
+    </div>
   </div>
 </template>
 
@@ -12,7 +15,8 @@
 export default {
   name: 'App',
   components: {
-    UseUI: () => import('@/components/UseUI')
+    UseUI: () => import('@/components/UseUI'),
+    Form: () => import('@/components/Form')
   }
 }
 </script>
